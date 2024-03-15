@@ -1,5 +1,21 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Optimizing Facial Expression Recognition Tasks for Children Utilizing CNN Architectures
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Detecting psychological disorders in children is a complex undertaking. Chil-
+dren’s behavior represents a large and unknown spectrum which can make it
+difficult to understand the upbringing of certain behaviors. To achieve this
+pre-diagnosis, previous studies have looked at using facial expression models
+to assist in detecting emotional responses to specific tasks. However, a pitfall
+presented is that these models tend to be trained on adult faces and do not
+generalize well when predicting children’s emotional responses. To better ad-
+dress this challenge, our study utilizes a diverse array of pre-trained models
+that are based on advanced architectures of convolutional neural networks
+(CNNs) and transformers. Specifically, we explore the capabilities of models
+such as DeepFace and ResNet (which are CNN-based), alongside Vision Trans-
+formers (a transformer-based model), and EfficientNet (another CNN-based
+model). These models will be evaluated on the FER-2013 dataset, encom-
+passing a wide age range, and the Dartmouth Database of Children’s Faces,
+focused exclusively on children. By comparing the performance of these mod-
+els across the two datasets using common metrics, we aim to delineate the
+differences in predicting emotional responses between children and adults.
